@@ -3,7 +3,7 @@
 //Actividad n°1
 string nombre = "Adrian";
 string apellido = "Rodriguez";
-int dni = 11323154;
+int dni = 11223344;
 int edad = 39;
 double altura = 1.79;
 
@@ -27,7 +27,6 @@ num2 = Convert.ToInt32(Console.ReadLine());
 
 int total = num1 + num2;
 Console.WriteLine("El total de la suma es: " + total);
-
 
 //Actividad n°3
 Console.WriteLine("Actividad n°3");
