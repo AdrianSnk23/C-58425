@@ -1,0 +1,15 @@
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\bin\Debug\net8.0\Desafio1AdrianRodriguez.exe
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\bin\Debug\net8.0\Desafio1AdrianRodriguez.deps.json
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\bin\Debug\net8.0\Desafio1AdrianRodriguez.runtimeconfig.json
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\bin\Debug\net8.0\Desafio1AdrianRodriguez.dll
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\bin\Debug\net8.0\Desafio1AdrianRodriguez.pdb
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.AssemblyInfoInputs.cache
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.AssemblyInfo.cs
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.csproj.CoreCompileInputs.cache
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.sourcelink.json
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.dll
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\refint\Desafio1AdrianRodriguez.dll
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.pdb
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\Desafio1AdrianRodriguez.genruntimeconfig.cache
+C:\Users\aeros\Desktop\C-58425\Desafio1AdrianRodriguez\obj\Debug\net8.0\ref\Desafio1AdrianRodriguez.dll
