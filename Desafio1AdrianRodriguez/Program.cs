@@ -4,8 +4,8 @@
 string nombre = "Adrian";
 string apellido = "Rodriguez";
 int dni = 11223344;
-int edad = 39;
-double altura = 1.79;
+short edad = 39; //se cambió el int por short debido a que ocupa menos espacio
+float altura = 1.79F; //se cambia el double por el float por el mismo motivo que short y cuando es float se asigna la letra F para que lo tome como float
 
 Console.WriteLine("Actividad n°1");
 Console.WriteLine(nombre);
