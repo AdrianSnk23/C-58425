@@ -1,0 +1,15 @@
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.AssemblyInfoInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.AssemblyInfo.cs
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.csproj.CoreCompileInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.sourcelink.json
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\bin\Debug\net8.0\CadenasYBucles.exe
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\bin\Debug\net8.0\CadenasYBucles.deps.json
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\bin\Debug\net8.0\CadenasYBucles.runtimeconfig.json
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\bin\Debug\net8.0\CadenasYBucles.dll
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\bin\Debug\net8.0\CadenasYBucles.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.dll
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\refint\CadenasYBucles.dll
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\CadenasYBucles.genruntimeconfig.cache
+C:\Users\aeros\Desktop\C-58425\Clase.03\CadenasYBucles\obj\Debug\net8.0\ref\CadenasYBucles.dll

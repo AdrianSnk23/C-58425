@@ -1,0 +1,15 @@
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\bin\Debug\net8.0\ValidarPass.exe
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\bin\Debug\net8.0\ValidarPass.deps.json
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\bin\Debug\net8.0\ValidarPass.runtimeconfig.json
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\bin\Debug\net8.0\ValidarPass.dll
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\bin\Debug\net8.0\ValidarPass.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.AssemblyInfoInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.AssemblyInfo.cs
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.csproj.CoreCompileInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.sourcelink.json
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.dll
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\refint\ValidarPass.dll
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ValidarPass.genruntimeconfig.cache
+C:\Users\aeros\Desktop\C-58425\Clase.03\ValidarPass\obj\Debug\net8.0\ref\ValidarPass.dll
