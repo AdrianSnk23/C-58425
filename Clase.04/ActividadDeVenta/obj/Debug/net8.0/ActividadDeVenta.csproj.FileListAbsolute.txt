@@ -1,0 +1,15 @@
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\bin\Debug\net8.0\ActividadDeVenta.exe
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\bin\Debug\net8.0\ActividadDeVenta.deps.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\bin\Debug\net8.0\ActividadDeVenta.runtimeconfig.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\bin\Debug\net8.0\ActividadDeVenta.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\bin\Debug\net8.0\ActividadDeVenta.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.AssemblyInfoInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.AssemblyInfo.cs
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.sourcelink.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\refint\ActividadDeVenta.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ActividadDeVenta.genruntimeconfig.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ActividadDeVenta\obj\Debug\net8.0\ref\ActividadDeVenta.dll

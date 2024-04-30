@@ -1,0 +1,15 @@
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\bin\Debug\net8.0\ejemplo01.exe
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\bin\Debug\net8.0\ejemplo01.deps.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\bin\Debug\net8.0\ejemplo01.runtimeconfig.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\bin\Debug\net8.0\ejemplo01.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\bin\Debug\net8.0\ejemplo01.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.AssemblyInfoInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.AssemblyInfo.cs
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.csproj.CoreCompileInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.sourcelink.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\refint\ejemplo01.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ejemplo01.genruntimeconfig.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ejemplo01\obj\Debug\net8.0\ref\ejemplo01.dll

@@ -1,0 +1,15 @@
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\bin\Debug\net8.0\ValidarPassConFuncion.exe
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\bin\Debug\net8.0\ValidarPassConFuncion.deps.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\bin\Debug\net8.0\ValidarPassConFuncion.runtimeconfig.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\bin\Debug\net8.0\ValidarPassConFuncion.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\bin\Debug\net8.0\ValidarPassConFuncion.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.AssemblyInfoInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.AssemblyInfo.cs
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.csproj.CoreCompileInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.sourcelink.json
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\refint\ValidarPassConFuncion.dll
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ValidarPassConFuncion.genruntimeconfig.cache
+C:\Users\aeros\Desktop\C-58425\Clase.04\ValidarPassConFuncion\obj\Debug\net8.0\ref\ValidarPassConFuncion.dll
