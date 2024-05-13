@@ -19,22 +19,50 @@
     return precio;
 }
 
+void Menu()
+{
+    int opcion = 0;
+    bool esNumero;
 
-void venta()
+    while (opcion < 1 || opcion > 3)
+    {
+        Console.WriteLine("Elija la opción que desea: \n 1.Pedir \n 2.Pagar \n 3.Salir \n");
+
+        string input = Console.ReadLine();
+        esNumero = int.TryParse(input, out opcion);
+
+        if (!esNumero || opcion < 1 || opcion > 3)
+        {
+            Console.WriteLine("Opción inválida. Intente de nuevo.");
+        }
+    }
+
+    switch (opcion)
+    {
+        case 1:
+            pedir();
+            break;
+        case 2:
+            Console.WriteLine("Pagar");
+            break;
+        case 3:
+            Console.WriteLine("Salir");
+            break;
+    }
+}
+
+void pedir()
 {
     string codigo = "";
     int cantProductos;
     int montoAPagar = 0;
-    string confirmacion = "-";
-    Console.WriteLine("Bienvenido, a la tienda digital");
-    Console.WriteLine("Elija la opcion que desea: \n 1.Comprar \n 2.Pagar \n 3.Salir \n");
     Console.WriteLine("Codigo     Descripcion     Precio\r\n   DES     Desodorante     200\r\n    JP     Jabon en Polvo  300\r\n   DET     Detergente      250");
 
     while (codigo != "FIN")
     {
         Console.WriteLine("Ingrese el codigo que desea comprar");
-        codigo =  Console.ReadLine().ToUpper();
-        if(codigo == "FIN")
+        codigo = Console.ReadLine().ToUpper();
+        if (codigo == "FIN")
         {
             break;
         }
@@ -45,6 +73,15 @@ void venta()
         montoAPagar += cantProductos * precio;
     }
     Console.WriteLine("Su monto a pagar es {0}", montoAPagar);
+}
+
+void programaVenta()
+{
+    
+    string confirmacion = "-";
+    Console.WriteLine("Bienvenido, a la tienda digital");
+    Menu();
+    pedir();
     Console.WriteLine("Desea realizar la compra? S/N");
     confirmacion = Console.ReadLine().ToUpper();
     if (confirmacion == "S")
@@ -56,4 +93,4 @@ void venta()
     }
 }
 
-venta();
+programaVenta();
