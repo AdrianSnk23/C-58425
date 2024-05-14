@@ -1,0 +1,17 @@
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.Form1.resources
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.csproj.GenerateResource.cache
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.AssemblyInfoInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.AssemblyInfo.cs
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.csproj.CoreCompileInputs.cache
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.sourcelink.json
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\bin\Debug\net6.0-windows\App2.exe
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\bin\Debug\net6.0-windows\App2.deps.json
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\bin\Debug\net6.0-windows\App2.runtimeconfig.json
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\bin\Debug\net6.0-windows\App2.dll
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\bin\Debug\net6.0-windows\App2.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.dll
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\refint\App2.dll
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.pdb
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\App2.genruntimeconfig.cache
+C:\Users\aeros\Desktop\C-58425\Clase.07\App2\obj\Debug\net6.0-windows\ref\App2.dll

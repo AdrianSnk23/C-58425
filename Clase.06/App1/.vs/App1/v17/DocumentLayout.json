@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\aeros\\Desktop\\C-58425\\Clase.06\\App1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|c:\\users\\aeros\\desktop\\c-58425\\clase.06\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|c:\\users\\aeros\\desktop\\c-58425\\clase.06\\app1\\messi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|solutionrelative:messi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|c:\\users\\aeros\\desktop\\c-58425\\clase.06\\app1\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|solutionrelative:ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|c:\\users\\aeros\\desktop\\c-58425\\clase.06\\app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B3F3DF4-B7E7-422C-B2D5-BD430D362E73}|App1.csproj|c:\\users\\aeros\\desktop\\c-58425\\clase.06\\app1\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Messi.cs",
               "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\C-58425\\Clase.06\\App1\\Messi.cs",
               "RelativeDocumentMoniker": "Messi.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Ronaldo.cs",
               "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\C-58425\\Clase.06\\App1\\Ronaldo.cs",
               "RelativeDocumentMoniker": "Ronaldo.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IJugador.cs",
               "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\C-58425\\Clase.06\\App1\\IJugador.cs",
               "RelativeDocumentMoniker": "IJugador.cs",
@@ -81,12 +81,11 @@
               "RelativeToolTip": "Jugador.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAA6wBgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T17:37:50.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T17:37:50.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aeros\\Desktop\\C-58425\\Clase.06\\App1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
